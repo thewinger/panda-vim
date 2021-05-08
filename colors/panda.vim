@@ -8,7 +8,7 @@ if exists("syntax_on")
   syntax reset
 endif
 
-let g:colors_name = "Sublime Panda Syntax"
+let g:colors_name = "panda"
 
 hi Cursor ctermfg=235 ctermbg=231 cterm=NONE guifg=#292a2b guibg=#f8f8f0 gui=NONE
 hi Visual ctermfg=NONE ctermbg=59 cterm=NONE guifg=NONE guibg=#333539 gui=NONE
