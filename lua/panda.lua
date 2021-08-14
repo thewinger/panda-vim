@@ -7,7 +7,7 @@
 
 require('colorbuddy').setup()
 
-local vim.g.colors_name = 'panda'
+vim.g.colors_name = 'panda'
 
 local Color = require('colorbuddy').Color
 
