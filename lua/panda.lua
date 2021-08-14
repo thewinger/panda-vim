@@ -4,7 +4,10 @@
 -- Maintainer       thewinger
 -- Website      https://github.com/thewinger/panda-vim
 
+
 require('colorbuddy').setup()
+
+local vim.g.colors_name = 'panda'
 
 local Color = require('colorbuddy').Color
 
